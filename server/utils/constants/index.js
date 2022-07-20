@@ -1,0 +1,1 @@
+export const DOC_TO_PDF_ROUTE = '/doc-to-pdf' 
